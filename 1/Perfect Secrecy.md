@@ -7,10 +7,16 @@
 
 **QUIZ**
 1. Can a stream cipher have perfect secrecy?
+
+
    ❌ Yes, if the PRD is really "secure": NO  
+   
    ❌ No there are no ciphers with perfect secrecy: NO, because of one time pad
+   
    ❌ Yes, every cipher has perfect secrecy: NO, παρά είναι αισιόδοξο
+   
    ✓ No, cince the key is shorter than the message: YES.
 
 CPA = Chosen Plaintext Attack
+
 Μπορεί δηλαδή ο επιτιθέμενος να επιλέγει να διαλέγει plaintext.
